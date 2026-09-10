@@ -5,6 +5,9 @@
 https://ai-financial-fraud-detection-nqscgt7lya3vprjj8nwpqd.streamlit.app
 
 Machine Learning powered financial transaction fraud detection system using Logistic Regression and Streamlit.
+## 📸 Application Preview
+
+![AI Financial Fraud Detection System](screenshot.png)
 
 This is a machine learning project where I worked on detecting fraudulent transactions.  
 The dataset comes from Kaggle: [Fraud Detection Dataset](https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download).  
