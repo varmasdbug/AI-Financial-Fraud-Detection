@@ -2,7 +2,7 @@
 # 🔐 AI Financial Fraud Detection System
 
 🚀 **Live Demo:**  
-https://ai-financial-fraud-detection-nqscgt7lya3vprjj8nwpqd.streamlit.app
+https://ai-financial-fraud-detection-ngsctg7lya3pvrjj8nwpgd.streamlit.app/
 
 Machine Learning powered financial transaction fraud detection system using Logistic Regression and Streamlit.
 ## 📸 Application Preview
